@@ -1,1 +1,1 @@
-print("Hello Shivam Shekhawat v20")
+pint("Hello Shivam Shekhawat v20")
